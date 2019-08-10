@@ -1,2 +1,4 @@
 # Icepop
-RAD for IOT Apps on Hyperledger 
+Blockchain books, papers, slides, and hyperledger manuals. 
+
+For study purpose only. 
